@@ -24,8 +24,7 @@ switch (num)
     case 7:
         Console.WriteLine("Воскресенье");
         break;
-    
     default:
-        Console.WriteLine("Вы ввели некорректное значение");
-        break;
+    Console.WriteLine("Вы ввели некорректное значение");
+    break;
 }
